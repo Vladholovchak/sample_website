@@ -2,7 +2,38 @@
   text-align: right;
 }
 .nav-spacing{
-  margin-right: 10px;
+  margin-left: 10px;
   text-decoration: none;
   color:blue;
+}
+.image-link{
+  text-decoration: none;
+}
+.my-blockquote{
+  padding: 2px 20px; background: #fafafa;
+}
+.td-style{
+  padding: 20px;
+}
+.my-header{
+  text-align: center; margin: 0 0 80px;
+}
+.my-div{
+  width: 500px; margin: 20px auto; padding: 30px;
+  background-color: #fafafa;
+}
+.my-h{
+  text-align: center;
+}
+.my-image{
+  display: block; margin: 0 auto;
+}
+.blockquote-moby{
+  font-style: italic; font-size: 20px;
+}
+.my-span{
+  font-style: normal; font-size: 24px; font-weight: bold;
+}
+.moby{
+  float: left; margin-right: 40px;
 }
